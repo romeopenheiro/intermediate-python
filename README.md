@@ -4,7 +4,7 @@ The course Intermediate Python on Friday the 15th of October will be taught as a
 
 The course will be led through Microsoft Teams at this link. Note that using Teams in a web browser requires Google Chrome or Microsoft Edge; otherwise you can install the app.
 
-The teaching material is available at [Intermediate Python] (https://milliams.com/courses/intermediate_python/)
+The teaching material is available at [Intermediate Python](https://milliams.com/courses/intermediate_python/)
 
 # Preparation
 
